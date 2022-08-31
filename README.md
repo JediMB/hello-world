@@ -19,5 +19,7 @@ Just *trying out* some **Markdown** options.
 [My twitter](https://twitter.com/jedimb)
 ---
 5. Mambo #
+6. Pronounced
 7. Dwarves
+8. A dog
 9. Cyborgs
