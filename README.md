@@ -17,3 +17,7 @@ Just *trying out* some **Markdown** options.
 - 三つ
 ---
 [My twitter](https://twitter.com/jedimb)
+---
+5. Mambo #
+7. Dwarves
+9. Cyborgs
